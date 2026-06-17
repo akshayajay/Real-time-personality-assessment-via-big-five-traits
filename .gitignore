@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Database files — may contain personal/sensitive resume data
+*.db
+*.sqlite
+
+# Office documents committed by mistake
+*.docx
+*.pdf
+
+# IDE / OS
+.DS_Store
+.vscode/
+.idea/
+
+# NLTK data cache
+nltk_data/
+
+# Streamlit
+.streamlit/
