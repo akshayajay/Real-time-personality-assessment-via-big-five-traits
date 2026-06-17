@@ -3,6 +3,8 @@
 [![Tests](https://github.com/akshayajay/Real-time-personality-assessment-via-big-five-traits/actions/workflows/tests.yml/badge.svg)](https://github.com/akshayajay/Real-time-personality-assessment-via-big-five-traits/actions/workflows/tests.yml)
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://real-time-personality-assessment-via-big-five-traits.streamlit.app/)
 
+### 🚀 [Try the Live Demo →](https://real-time-personality-assessment-via-big-five-traits.streamlit.app/)
+
 An NLP-powered resume shortlisting application that ranks candidates by job fit and infers Big Five personality traits from resume language.
 
 ---
